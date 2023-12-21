@@ -7,5 +7,3 @@ The goal of this project is to develop a POS tagger for transliterated Telugu us
 - Extract important features for each word 
 - Train a conditional random fields model on the dataset
 
-
-
